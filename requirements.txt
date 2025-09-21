@@ -1,0 +1,12 @@
+feedparser
+newspaper3k
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+requests
+lxml-html-clean
+apscheduler
+beautifulsoup4
+flask
+flask-cors
+apscheduler
